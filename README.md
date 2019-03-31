@@ -1,2 +1,4 @@
 # ChatbotFlask
-This will be a basic Chatbot architecture Flask, Angular and Keras
+This will be a basic backend of a bigger Chatbot architecture with Flask, Angular and Keras.
+
+This part is the Flask part
